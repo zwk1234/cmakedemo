@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=HelloCMake
+Comment=CMake Example
+Comment[zh_CN]=CMake示例
+Exec=hello_cmake
+Terminal=true
+Type=Application
+Categories=Education
